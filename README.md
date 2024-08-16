@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Nayan9o
-- 👀 I’m interested in learn new things
 - 🌱 I’m currently pursuing my degree in Information technology
 - 📫 How to reach me  nayanmeahram027@gmail.com
 
