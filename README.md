@@ -79,8 +79,9 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)]([YOUR_LINKEDIN](https://www.linkedin.com/in/nayan-meshram-22665a365/))
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/Nayan9o)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/nayan-meshram-22665a365/)
+
 
 
 
